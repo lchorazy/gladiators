@@ -28,7 +28,7 @@ repositories {
 
 dependencies {
 	compile group: 'com.google.guava', name: 'guava', version: '19.0'
-	compile('com.vaadin:vaadin-spring-boot-starter:1.0.2')
+	compile('com.vaadin:vaadin-spring-boot-starter:1.1.1')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
     compile group: 'org.springframework.boot', name: 'spring-boot-devtools', version: '1.4.1.RELEASE'
 
